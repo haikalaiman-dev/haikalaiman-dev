@@ -74,6 +74,14 @@
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
 </div>
 
+**Web development**
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb&perline=7" alt="JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB" />
+  </a>
+</div>
+
 ## 🧪 What I'm experimenting with
 
 <!-- Example project names — rename to match your real repos as you create them. -->
